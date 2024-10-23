@@ -1,0 +1,8 @@
+.buttons{
+    position: relative;
+    top: 59vh;
+    display: flex;
+    gap: 38px;
+    left: 180px;
+    width: -4px;
+}
